@@ -1,3 +1,71 @@
 .hidden {
     display: none;
 }
+
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.weather {
+    color: aliceblue;
+    
+    position: absolute;
+    left: 95%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+}
+
+
+h2 {
+    color: aliceblue;
+    font-size: xx-large;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    color: aliceblue;
+    font-size: x-large;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+}
+
+.login {
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    } 
+
+.quote {
+    color: aliceblue;
+        position: absolute;
+        left: 50%;
+        top: 75%;
+        transform: translate(-50%, -50%);
+        }
+
+
+
+.todo {
+    position: absolute;
+    left: 50%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.todolist {
+    color: aliceblue;
+        position: absolute;
+        left: 50%;
+        top: 90%;
+        transform: translate(-50%, -50%);
+}
