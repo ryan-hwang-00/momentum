@@ -1,0 +1,11 @@
+Ryan Ingyu Hwang:
+  name: "Ryan Ingyu Hwang"
+  bio: "개발자"
+  avatar: "https://avatars.githubusercontent.com/u/68258601?s=400&v=4"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ingyu.hwang.91@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RyanIngyuHwang"

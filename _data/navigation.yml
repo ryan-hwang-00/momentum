@@ -1,0 +1,13 @@
+main:
+  - title: "about"
+    url: /about/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "contact"
+    url: /contact/

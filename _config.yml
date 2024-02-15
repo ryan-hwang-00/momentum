@@ -20,16 +20,53 @@
 
 title: CodeDepth with Ryan
 email: ingyu.hwang91@gmail.com
+name: "Ryan Ingyu Hwang"
 description: CodeDepth with Ryan은 Ryan Ingyu Hwang의 블로그입니다. 머신러닝, 딥러닝, Flutter 앱 개발, 소프트웨어 프로젝트 관리를 탐구합니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryan-hwang-00.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RyanIngyuHwang
 github_username: ryan-hwang-00
 
+encoding: utf-8
+locale: "ko-KR"
+show_date: true
+date_format: "%Y-%m-%d"
+comments: true
+search: true
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+minimal_mistakes_skin: dirt
+
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+include: ["_pages"]
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      # read_time: true
+      comments: true
+      share: true
+      related: true
+      author: "Ryan Ingyu Hwang"
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
