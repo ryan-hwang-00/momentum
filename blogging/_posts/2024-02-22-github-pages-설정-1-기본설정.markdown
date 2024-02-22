@@ -6,9 +6,10 @@ tags: [blogging, tutorial]
 description: "이 포스트는 GitHub Pages를 사용하여 개인 웹사이트를 설정하는 기본 단계를 설명합니다."
 published: true
 ---
+github pages를 사용하는 첫단계를 설명한다. 모든 것은 시작이 반이다.
 
 ## github pages
-깃허브 페이지스는 깃허브에서 기본으로 제공하는 웹 호스팅 서비스이다.
+github pages는 깃허브에서 기본으로 제공하는 웹 호스팅 서비스이다.
 
 ## 설정방법
 

@@ -6,6 +6,7 @@ tags: [blogging, tutorial]
 description: "이 포스트는 'velog', 'tistory', 'naver', 'blogger', '워드프레스', 'medium' 등 국내외 주요 블로그 플랫폼의 특징과 단점을 비교 분석합니다."
 published: true
 ---
+ 본격적으로 기술블로그를 작성하기에 앞서 블로그 플랫폼을 정하는 일이 우선적으로 필요했다. 온라인에 있는 다양한 자료를 검토하고, 개인적인 의견을 붙여 작성하였다.
 
 ## 국내 블로그 플랫폼
 
@@ -56,4 +57,11 @@ published: true
 #### 단점
 
 - 난이도가 너무너무너무 높음
-- 실제 운영 방법에 대해서는 [github pages 설정 1 - 기본설정]({% post_url blogging/2024-02-22-github-pages-설정-1-기본설정 %})에 자세히 적는 것으로 함
+
+## 블로그 플랫폼 결정
+고민 끝에 최종적으로 **github pages**로 결정하였다. 이것으로 결정한 이유는 다음과 같다.
+- 높은 자유도
+- 높은 난이도에서 오는 학습효과
+- 기술적 허세
+
+실제 운영 방법에 대해서는 [github pages 설정 1 - 기본설정]({% post_url blogging/2024-02-22-github-pages-설정-1-기본설정 %})에 자세히 적는 것으로 함
