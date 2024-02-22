@@ -1,0 +1,59 @@
+---
+layout: single
+title: 블로그 선정
+date: 2024-02-22 10:30:00 +0900
+tags: [blogging, tutorial]
+description: 이 포스트는 'velog', 'tistory', 'naver', 'blogger', '워드프레스', 'medium' 등 국내외 주요 블로그 플랫폼의 특징과 단점을 비교 분석합니다.
+published: true
+---
+
+## 국내 블로그 플랫폼
+
+- velog
+- tistory
+- naver
+
+## 해외 블로그 플랫폼
+
+- blogger
+- 워드프레스
+- medium
+
+## 고려된 블로그  정리
+
+### velog
+
+#### 특징
+
+- 운영: 벨로그
+- 개발자들이 많이 사용함
+- 코드 블럭의 사용이 편하다고 함
+
+#### 단점
+
+- 사용하는 사람이 별로 없음
+- 광고를 달 수 없음.(나중에 추가된다고 함)
+
+### tistory
+
+#### 특징
+
+- 운영: 카카오
+- 대중적임
+- 범용적임
+- 
+#### 단점
+
+- 코드 블럭 등이 좀 불편하다고 함
+
+### github pages
+
+#### 특징
+
+- 운영: github
+- 높은 자유도
+
+#### 단점
+
+- 난이도가 너무너무너무 높음
+- 실제 운영 방법에 대해서는 [github pages 설정 1 - 기본설정]({% post_url blogging/2024-02-22-github-pages-설정-1-기본설정 %})에 자세히 적는 것으로 함
