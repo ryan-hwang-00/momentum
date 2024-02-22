@@ -3,6 +3,7 @@ layout: single
 title: github pages 설정 1 - 기본설정
 date: 2024-02-22 11:30:00 +0900
 tags: [blogging, tutorial]
+description: "이 포스트는 GitHub Pages를 사용하여 개인 웹사이트를 설정하는 기본 단계를 설명합니다."
 published: true
 ---
 
